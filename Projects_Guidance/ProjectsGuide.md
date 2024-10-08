@@ -6,7 +6,7 @@ The course assessment is based on a final course project. Projects are done in g
 
 - The format of project presentations will be the following: one group will present their work, after which another group will oppose and constructively criticize their work and propose improvements or ask clarification questions.
 
-- Group poster presentations will take place **physically in the lecture room** [TBA]() on 23.01. Each presentation will have a time limit of 10 minutes, followed by 10 minutes for discussion. Each student in the group has to participate in both their project presentation and their discussion round.
+- Group poster presentations will take place **physically in the lecture room** [TBA]() on 28.01. Each presentation will have a time limit of 10 minutes, followed by 10 minutes for discussion. Each student in the group has to participate in both their project presentation and their discussion round.
 
 - Every student has to attend to **the poster persentation session** because each student will be presenter in one round and discussant in the other one. 
 
@@ -14,7 +14,7 @@ The course assessment is based on a final course project. Projects are done in g
 
 - Discussants only need to pay attention to the poster presentation and ask questions or propose improvements afterwards. To qualify for the full grade, each student in your group has to ask a question when you are a discussant. After that, lecturers might ask questions and also make comments.
 
-- You can get guidance for your project during the exercise sessions of 09.01.2024 and ~~16.01.2024~~. From 22.01 there will be no more project guidance from the side of the lecturers.
+- You can get guidance for your project during the exercise sessions of 07.01.2025 and 14.01.2025. From 21.01 there will be no more project guidance from the side of the lecturers.
 
 - The deadline to submit your report is **February 11th** (end of day). You can submit over Teach Center.
 
@@ -32,12 +32,11 @@ The course assessment is based on a final course project. Projects are done in g
 
 The timeline of the project deadlines can be found below. The deadlines are up to the end of the day marked by each date.
 
-- **22.12.2023:** Registration of project groups.
-- **23.01.2024, 11:00:** Poster presentations session day 1.
-- **30.01.2024, 11:00** Poster presentations session day 2.
-- **11.02.2024** Submission of the final report.
-
-You can get guidance for your project on two special sessions: at 11:00 on 09.01.2024 and ~~16.01.2024~~.
+- **22.12.2024:** Registration of project groups.
+- **07.01.2025:** Project guidance with Fariba (first session)
+- **14.01.2025:** Project guidance with Fariba (second session)
+- **28.01.2025:** Poster presentations session day .
+- **11.02.2025:** Submission of the final report.
 
 The steps to do the course project are the following:
 
@@ -61,7 +60,7 @@ Each poster at least has to contain four blocks:
 
 All members of the group have to participate in their presentation (for example presenting one block each) and be present to reply to questions by the lecturers. The time for the presentation is restricted to **10 minutes**. It is important that you learn to synthesize and summarize the project, please practice the presentation substantially because taking longer will affect the project grade.
 
-You can get guidance for your project on the designated sessions (09.01.2024 and ~~16.01.2024~~) or on discord up until the first project presentations date (23.01.2024). After that, no guidance will be provided via discord or email.
+You can get guidance for your project on the designated sessions (07.01.2025 and 14.01.2025). After that, no guidance will be provided via email.
 
 #### 4. Submit the final report
 
@@ -81,8 +80,7 @@ Plots should be correctly shown (named axes, visible scales) and writing has to 
 
 Be careful with statistics in the analysis part. Use the methods covered in the course to assess the uncertainty of your answers and comment on these results in the conclusion part. The critique part is essential. An important objective of this course is to develop a critical understanding of the opportunities and limitations of the data and methods we will use.
 
-After your project presentations, we might suggest feedback on your current project analysis and results. We will keep track of this feedback and expect that you incorporate it in your final project report. If something could not be done then we expect that you explain why. No more feedback or support will be given after the first project presentations day (23.01.2024). Students who aim to the second date should get early input on their project.
-
+After your project presentations, we might suggest feedback on your current project analysis and results. We will keep track of this feedback and expect that you incorporate it in your final project report. If something could not be done then we expect that you explain why.
 ## Project grading
 
 The grade for the project is composed of 50% for the poster presentation and 50% for the final report. Extra points are given when projects are based on open science principles (e.g. data and codes are available in a Github repository) and when data sources or methods go beyond what is covered in the course. **Projects do not need to report "positive results",** what is important is that you show how your have addressed your research questions, document any issues or deviations, and critically reflect on methods and results.
