@@ -1,56 +1,58 @@
 # Foundations of Computational Social Systems: Projects Guide
 
-The course assessment is based on a final course project. Projects are done in groups that can have at most 4 students and must mix students with different backgrounds (at least two different backgrounds per group). The purpose of the project is to show what you have learned in the course in terms of data management, analysis, statistics, and interpretation. Projects have to start from a research question and have an empirical focus, but at the same time critically reflect on methods, conclusions, and limitations. 
+50% of the course assessment is based on a final course project. Projects are done in groups that can have at most 4 students and must mix students with different backgrounds (at least two different backgrounds per group). The purpose of the project is to show what you have learned in the course in terms of data management, analysis, statistics, and interpretation. Projects have to start from a research question and have an empirical focus, but at the same time critically reflect on methods, hypotheses, conclusions, and limitations.
+
 
 ## Some basic information:
 
-- The format of project presentations will be the following: one group will present their work, after which another group will oppose and constructively criticize their work and propose improvements or ask clarification questions.
+- The format of project presentations will be a poster presentation: groups will present their work as a poster while the committee ask questions and vote on the quality of the research and presentations. 
 
-- Group poster presentations will take place **physically in the lecture room** [TBA]() on 28.01. Each presentation will have a time limit of 10 minutes, followed by 10 minutes for discussion. Each student in the group has to participate in both their project presentation and their discussion round.
+- Group poster presentations will take place physically in the **lecture room HS FSI I (FSEG054) from 11 to 14 on 28.01**. Each presentation will have a time limit of 10 minutes, followed by 10 minutes for discussion. Each student in the group has to participate in both their project presentation and their discussion round.
 
-- Every student has to attend to **the poster persentation session** because each student will be presenter in one round and discussant in the other one. 
+- **Printing and installing your poster**: You are responsible to hand-in your poster for print and installing it on the day of the examination. The format of your poster is **A0 format, 841 x 1190 mm**. One group member should send the poster in PDF format and in A0 format to Paula Nauta by **19.01.2025 : nauta@student.tugraz.at**. **Any delay results in no print and fail in the exam**. 
 
-- We will prepare an entry in Teach Center for you to register your group and after all groups are registered, we will announce the agenda for the session including which group presents and which is the discussant. **The deadline for group registrations is 22.12. The agenda with times and who presents will be announced over the following weeks, after the groups have been registered**.
+- Every student has to attend to **the poster persentation session**; each student will be a  each student will be presenter in one round and a  each student will be presenter in one round and discussant in the other one. 
 
 - Discussants only need to pay attention to the poster presentation and ask questions or propose improvements afterwards. To qualify for the full grade, each student in your group has to ask a question when you are a discussant. After that, lecturers might ask questions and also make comments.
 
-- You can get guidance for your project during the exercise sessions of 07.01.2025 and 14.01.2025. From 21.01 there will be no more project guidance from the side of the lecturers.
+- You can get guidance for your projects in two sessions: 17.12.2024 and 14.01.2025 from 11:00 to 12:00. There are no lectures from 17.12.2024. 
 
-- The deadline to submit your report is **February 11th** (end of day). You can submit over Teach Center.
+- Apart from the poster presentation, and after getting feedback, each group submits a max. 10-page research report. The deadline to submit your report is **February 9th** (end of day). You can submit over Teach Center.
 
-- Reports must be in pdf format, briefly explaining the project and its results. **Do not submit python code or notebooks.**
+- Reports must be in pdf format, briefly explaining the research questions, data, methods, limitations and results. **Do not submit python code or notebooks.**
 
 ## Further clarifications
 
-- The 10-minute time limit for poster presentations is strict, points will be deducted if you take longer.
+- Multiple evaluators vote on each poster. All group members must actively participate in explaining their poster.
 
 - Discussants have to pay attention to their corresponding poster presentation, as the student projects will not be available before the presentations.
 
-- We have not set a limit on the number of pages of reports but we trust that you will try to be concise. Please do not include redundant output or notebook code, your report has to be readable and well-edited.
+- Guideline on how to write a research report: https://www.adelaide.edu.au/writingcentre/ua/media/28/learningguide-writingaresearchreport.pdf
 
-- You will learn the date when your project presents and when it iss discussant on the week after groups are registered.
+- Guideline on how to make a research poster: https://www.animateyour.science/post/how-to-design-an-award-winning-conference-poster
+
 
 The timeline of the project deadlines can be found below. The deadlines are up to the end of the day marked by each date.
 
-- **22.12.2024:** Registration of project groups.
-- **07.01.2025:** Project guidance with Fariba (first session)
+- **17.12.2024:** Project guidance with Fariba (first session)
+- **07.01.2025:** No class
 - **14.01.2025:** Project guidance with Fariba (second session)
 - **28.01.2025:** Poster presentations session day .
-- **11.02.2025:** Submission of the final report.
+- **09.02.2025:** Submission of the final report.
 
 The steps to do the course project are the following:
 
 #### 1. Form a group and choose a topic
-Get in touch with fellow students over the course discord server or around lectures to form a group. You can use the same group composition as in Introduction to Computational Social Systems, but you don't have to.
+Get in touch with fellow students over the course discord server or around lectures to form a group. You can get inspiration from the course and lecture materials to find the data and research topic that you and your team like. 
 
 #### 2. Project groups registration
-In the last week before the Christmas break (22.12), your group has to register for the project on TC group assignment.
+In December (02.12), your group has to register for the project on TC group assignment.
 
 #### 3. Poster presentations
 
 During poster presentation session, students give **10-minute** presentations about the state of results of their projects. Students get questions from lecturers regarding their understanding of the topic and feedback on how to improve the project for the final report (using fdbacker QR codes).
 
-Each poster at least has to contain four blocks:
+Each poster must contain at least four blocks:
 
 0) Project title, names of group members
 1) Research question and motivation
@@ -58,9 +60,8 @@ Each poster at least has to contain four blocks:
 3) Results
 4) Conclusion
 
-All members of the group have to participate in their presentation (for example presenting one block each) and be present to reply to questions by the lecturers. The time for the presentation is restricted to **10 minutes**. It is important that you learn to synthesize and summarize the project, please practice the presentation substantially because taking longer will affect the project grade.
+All members of the group have to participate in their presentation (for example presenting one block each) and be present to reply to questions by the lecturers. It is important that you learn to synthesize and summarize the project, please practice the presentation substantially because taking longer will affect the project grade.
 
-You can get guidance for your project on the designated sessions (07.01.2025 and 14.01.2025). After that, no guidance will be provided via email.
 
 #### 4. Submit the final report
 
@@ -89,13 +90,15 @@ The grade for the project is composed of 50% for the poster presentation and 50%
 
 #### Replicating a previous paper
 
-You can select a previous paper and take the same question and methods used in the paper. You don't need to do the exact same thing, but the question can be the same. For example, you can replicate a study about sentiment on Twitter but with Reddit data. In this case, it is important that you explain in your report the question and methods of the paper you replicate, how you have deviated from those, and how your results agree, disagree, or are inconclusive. Many papers share tweet ids or other kinds of ids for you to generate your own dataset in a similar way, we welcome that kind of replication but not replications based solely on the data shared by the authors of the original paper.
+You can select a previous paper and take the same question and methods used in the paper. You don't need to do the exact same thing, but the question can be the same. For example, you can replicate a study about sentiment analysis or network analysis on Twitter but with Reddit data. In this case, it is important that you explain in your report the question and methods of the paper you replicate, how you have deviated from those, and how your results agree, disagree, or are inconclusive. Many papers share tweet ids or other kinds of ids for you to generate your own dataset in a similar way, we welcome that kind of replication but not replications based solely on the data shared by the authors of the original paper.
 
 #### Building on your Introduction to Computational Social Systems project
 
 You can seize the readings you do for Introduction to Computational Social Systems and propose a question and a plan based on that. This has the upside that you could merge both projects afterwards in one report and use it to showcase what you learned or towards a scientific publication. Some examples of how this can be done:
 
 - **Bias and fairness in recommender systems.** Use a dataset of book reviews and a recommender system method (for example collaborative filtering) to evaluate if books written by women are recommended less often. You can compare various recommendation algorithms and assess their gender biases.
+- **Spread of misinformation in social networks.**:
+-**How algorithms shape our social networks over time.**:https://dl.acm.org/doi/abs/10.1145/3501247.3531583
 - **Integrating Survey Data and Digital Trails Data.** Take international survey data, for example from the World Values Survey, and compare values across countries with a language-independent measure of online behavior. You can use this to test if long-term orientation in the World Values Survey is correlated with the Future Orientation Index, or if the volume of accesses to Wikipedia pages about climate change in all languages is correlated with concerns about the climate or average altitude of a country.
 - **Fighting online misinformation.** Use a set of links to websites with misinformation (e.g. promoting ivermecting as COVID-19 treatment) and gather tweets or Facebook public posts through Crowdtangle. You can start from what previous research has done, for example testing if emotional content on posts helps to get more retweets or shares on Facebook or testing if there is substantial inequality in sharing links such that 90% of shares come from 10% of users.
 - **Algorithm aversion.** Search on Twitter or Reddit for posts containing the word "algorithm" and apply sentiment analysis. Do your own annotations to identify if sentiment analysis can find expressions of aversion. Run text analysis to identify if there are different reasons for the aversion and the different meanings of the word.
