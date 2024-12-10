@@ -37,8 +37,9 @@ The timeline of the project deadlines can be found below. The deadlines are up t
 - **17.12.2024:** Project guidance with Fariba (first session)
 - **07.01.2025:** No class
 - **14.01.2025:** Project guidance with Fariba (second session)
+- **19.01.2025:** Deadline to submit pdf format of your A0 poster to Paula Nauta for print.
 - **28.01.2025:** Poster presentations session day .
-- **09.02.2025:** Submission of the final report.
+- **09.02.2025:** Submission of the final written report.
 
 The steps to do the course project are the following:
 
