@@ -2,22 +2,21 @@
 
 50% of the course assessment is based on a final course project. Projects are done in groups that can have at most 4 students and must mix students with different backgrounds (at least two different backgrounds per group). The purpose of the project is to show what you have learned in the course in terms of data management, analysis, statistics, and interpretation. Projects have to start from a research question and have an empirical focus, but at the same time critically reflect on methods, hypotheses, conclusions, and limitations.
 
-
 ## Some basic information:
 
-- The format of project presentations will be a poster presentation: groups will present their work as a poster while the committee ask questions and vote on the quality of the research and presentations. 
+- The format of project presentations will be a poster presentation: groups will present their work as a poster while the committee ask questions and vote on the quality of the research and presentations.  
 
 - Group poster presentations will take place physically in the **lecture room HS FSI I (FSEG054) from 11 to 14 on 28.01**. Each presentation will have a time limit of 10 minutes, followed by 10 minutes for discussion. Each student in the group has to participate in both their project presentation and their discussion round.
 
-- **Printing and installing your poster**: You are responsible to hand-in your poster for print and installing it on the day of the examination. The format of your poster is **A0 format, 841 x 1190 mm**. One group member should send the poster in PDF format and in A0 format to Paula Nauta by **19.01.2025 : nauta@student.tugraz.at**. **Any delay results in no print and fail in the exam**. 
+- *(**Printing and installing your poster**: You are responsible to hand-in your poster for print and installing it on the day of the examination. The format of your poster is **A0 format, 841 x 1190 mm**. One group member should send the poster in PDF format and in A0 format to Paula Nauta by **19.01.2025 : nauta@student.tugraz.at**. **Any delay results in no print and fail in the exam**.)*-> **needs to be updated?**
 
 - Every student has to attend to **the poster persentation session**; each student will be a  each student will be presenter in one round and a  each student will be presenter in one round and discussant in the other one. 
 
 - Discussants only need to pay attention to the poster presentation and ask questions or propose improvements afterwards. To qualify for the full grade, each student in your group has to ask a question when you are a discussant. After that, lecturers might ask questions and also make comments.
 
-- You can get guidance for your projects in two sessions: 17.12.2024 and 14.01.2025 from 11:00 to 12:00. There are no lectures from 17.12.2024. 
+- *(You can get guidance for your projects in two sessions: 17.12.2024 and 14.01.2025 from 11:00 to 12:00. There are no lectures from 17.12.2024.)*-> needs to be updated?
 
-- Apart from the poster presentation, and after getting feedback, each group submits a max. 10-page research report. The deadline to submit your report is **February 9th** (end of day). You can submit over Teach Center.
+- Apart from the poster presentation, and after getting feedback, each group submits a max. 6-page research report. The deadline to submit your report is **February 10th** (end of day). You can submit over Teach Center.
 
 - Reports must be in pdf format, briefly explaining the research questions, data, methods, limitations and results. **Do not submit python code or notebooks.**
 
@@ -34,22 +33,22 @@
 
 The timeline of the project deadlines can be found below. The deadlines are up to the end of the day marked by each date.
 
-- **17.12.2024:** Project guidance with Fariba (first session)
-- **07.01.2025:** No class
-- **14.01.2025:** Project guidance with Fariba (second session)
-- **19.01.2025:** Deadline to submit pdf format of your A0 poster to Paula Nauta for print.
-- **28.01.2025:** Poster presentations session day .
-- **09.02.2025:** Submission of the final written report.
+- **13.01.2025:** Project guidance with Fariba (first session)
+- *(**19.01.2025:** Deadline to submit pdf format of your A0 poster to Paula Nauta for print.)*-> needs to be updated?
+- **27.01.2025:** Poster presentations session day .
+- **10.02.2025:** Submission of the final written report.
 
 The steps to do the course project are the following:
 
-#### 1. Form a group and choose a topic
-Get in touch with fellow students over the course discord server or around lectures to form a group. You can get inspiration from the course and lecture materials to find the data and research topic that you and your team like. 
+### 1. Form a group and choose a topic
 
-#### 2. Project groups registration
-In December (02.12), your group has to register for the project on TC group assignment.
+Get in touch with fellow students over the course discord server or around lectures to form a group. You can get inspiration from the course and lecture materials to find the data and research topic that you and your team like.  
 
-#### 3. Poster presentations
+### 2. Project groups registration
+
+In December (22.12), your group has to register for the project on TC group assignment.
+
+### 3. Poster presentations
 
 During poster presentation session, students give **10-minute** presentations about the state of results of their projects. Students get questions from lecturers regarding their understanding of the topic and feedback on how to improve the project for the final report (using fdbacker QR codes).
 
@@ -63,8 +62,7 @@ Each poster must contain at least four blocks:
 
 All members of the group have to participate in their presentation (for example presenting one block each) and be present to reply to questions by the lecturers. It is important that you learn to synthesize and summarize the project, please practice the presentation substantially because taking longer will affect the project grade.
 
-
-#### 4. Submit the final report
+### 4. Submit the final report
 
 Send a final report as a PDF document (max. 6 pages, min. font size 11pt) via TC.
 References do not count towards this 6-page limit. Projects can contain a link to a Github repository including the code to produce results, datasets if they can be shared, and additional figures or tables that can be referenced from the project report.
@@ -83,13 +81,14 @@ Plots should be correctly shown (named axes, visible scales) and writing has to 
 Be careful with statistics in the analysis part. Use the methods covered in the course to assess the uncertainty of your answers and comment on these results in the conclusion part. The critique part is essential. An important objective of this course is to develop a critical understanding of the opportunities and limitations of the data and methods we will use.
 
 After your project presentations, we might suggest feedback on your current project analysis and results. We will keep track of this feedback and expect that you incorporate it in your final project report. If something could not be done then we expect that you explain why.
+
 ## Project grading
 
 The grade for the project is composed of 50% for the poster presentation and 50% for the final report. Extra points are given when projects are based on open science principles (e.g. data and codes are available in a Github repository) and when data sources or methods go beyond what is covered in the course. **Projects do not need to report "positive results",** what is important is that you show how your have addressed your research questions, document any issues or deviations, and critically reflect on methods and results.
 
 ## Examples of project topics
 
-#### Replicating a previous paper
+### Replicating a previous paper
 
 You can select a previous paper and take the same question and methods used in the paper. You don't need to do the exact same thing, but the question can be the same. For example, you can replicate a study about sentiment analysis or network analysis on Twitter but with Reddit data. In this case, it is important that you explain in your report the question and methods of the paper you replicate, how you have deviated from those, and how your results agree, disagree, or are inconclusive. Many papers share tweet ids or other kinds of ids for you to generate your own dataset in a similar way, we welcome that kind of replication but not replications based solely on the data shared by the authors of the original paper.
 
@@ -116,8 +115,8 @@ Here are some examples of further ideas for you to see how a project plan can lo
 
 - **Sentiment about Donald Trump and income at the regional level.** Testing a hypothesis about a correlation between sentiment in tweets mentioning #Trump in a region correlated and its income and education levels. Used syuzhet and VADER. Manual annotation of some tweets showed limitations, for example some dictionaries have "trump" as a positive word, thus the sentiment analysis method was changed accordingly. Geographic location information based on text processing of user location. Test based on a regression model including two education levels from census data too. Robustness with two sentiment analysis methods but not "shopping around methods" including too many.
 
-
 ## Frequently asked questions
+
 - **Do I have to work in a group?**
 Yes, individual projects are not allowed. You can use collaborative tools like Github and videoconference technologies to coordinate your project. You can divide tasks as long as you all contribute to the project. Some exceptions about the group composition can be considered for groups composed only of doctoral researchers at TU Graz, contact us if that is your case.
 - **Do we need to start with a question?**
@@ -137,7 +136,7 @@ Projects in this course have to be empirical and use data. Critical discussions 
 - **Can we use a statistical method or model not covered by the course?**
 Yes, but make sure that you understand it well. Don't use a method just because someone told you to do so (for example on stack exchange) or because everyone in your field is using it, think critically and make sure that you don't just run some software and get a magical p-value or something like that. You should also briefly explain this method in your report, cite relevant references about it, and explain why you chose to use it.
 - **How can we share our code and data with you?**
-You can share code and data by setting up a Github repository and including a link in your report. You will get extra points if the repository is well documented and might help other people in their analyses! 
+You can share code and data by setting up a Github repository and including a link in your report. You will get extra points if the repository is well documented and might help other people in their analyses!  
 - **Can I use a proprietary dataset I cannot share?**
 That's OK if it answers your question well but you won't qualify to get extra points for open science practices. I often run the code of projects myself and I cannot do that if you can't share the dataset.
 - **Can we access historical Twitter data?**
