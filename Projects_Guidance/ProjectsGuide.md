@@ -1,20 +1,20 @@
 # Foundations of Computational Social Systems: Projects Guide
 
-50% of the course assessment is based on a final course project. Projects are done in groups that can have at most 4 students and must mix students with different backgrounds (at least two different backgrounds per group). The purpose of the project is to show what you have learned in the course in terms of data management, analysis, statistics, and interpretation. Projects have to start from a research question and have an empirical focus, but at the same time critically reflect on methods, hypotheses, conclusions, and limitations.
+50% of the course assessment is based on a final course project. Projects are done in groups that can have at most 4 students and must mix students with different backgrounds (at least two different backgrounds per group). The purpose of the project is to show what you have learned in the course in terms of hypothesis testing, data management, analysis, statistics and interpretation. Projects have to start from a research question and have an empirical focus, but at the same time critically reflect on methods, hypotheses, conclusions, and limitations.
 
 ## Some basic information:
 
 - The format of project presentations will be a poster presentation: groups will present their work as a poster while the committee ask questions and vote on the quality of the research and presentations.  
 
-- Group poster presentations will take place physically in the **lecture room HS FSI I (FSEG054) from 11 to 14 on 28.01**. Each presentation will have a time limit of 10 minutes, followed by 10 minutes for discussion. Each student in the group has to participate in both their project presentation and their discussion round.
+- Group poster presentations will take place physically in the **lecture room HS FSI I (FSEG054) from 11 to 14 on 28.01.2026**. Each presentation will have a time limit of 10 minutes, followed by 10 minutes for discussion. Each student in the group has to participate in both their project presentation and their discussion round.
 
-- *(**Printing and installing your poster**: You are responsible to hand-in your poster for print and installing it on the day of the examination. The format of your poster is **A0 format, 841 x 1190 mm**. One group member should send the poster in PDF format and in A0 format to Paula Nauta by **19.01.2025 : nauta@student.tugraz.at**. **Any delay results in no print and fail in the exam**.)*-> **needs to be updated?**
+- *(**Printing and installing your poster**: You are responsible to hand-in your poster for print and installing it on the day of the examination. The format of your poster is **A0 format, 841 x 1190 mm**. One group member should send the poster in PDF format and in A0 format to Paula Nauta by **19.01.2025 : nauta@student.tugraz.at**. **Any delay in sending results in no print and fail in the exam**.)*-> **needs to be updated?**
 
-- Every student has to attend to **the poster persentation session**; each student will be a  each student will be presenter in one round and a  each student will be presenter in one round and discussant in the other one. 
+- Every student has to attend **the poster presentation session**; each student will be a will be presenter in one round and a discussant in the other one. 
 
-- Discussants only need to pay attention to the poster presentation and ask questions or propose improvements afterwards. To qualify for the full grade, each student in your group has to ask a question when you are a discussant. After that, lecturers might ask questions and also make comments.
+- Discussants need to pay attention to the poster presentation and ask questions or propose improvements afterwards. To qualify for the full grade, each student in a group has to ask a question when they are a discussant. After that, lecturers might ask questions and also make comments.
 
-- *(You can get guidance for your projects in two sessions: 17.12.2024 and 14.01.2025 from 11:00 to 12:00. There are no lectures from 17.12.2024.)*-> needs to be updated?
+- *(You can get guidance for your projects in two sessions: 13.01.2025 and 20.01.2025 from 11:00 to 12:00. The first session will be in the usual classroom and the second session will be held during office hours of the tutors, and students can come to their respective offices. There will be no more lectures from 17.12.2025.)*
 
 - Apart from the poster presentation, and after getting feedback, each group submits a max. 6-page research report. The deadline to submit your report is **February 10th** (end of day). You can submit over Teach Center.
 
@@ -22,9 +22,9 @@
 
 ## Further clarifications
 
-- Multiple evaluators vote on each poster. All group members must actively participate in explaining their poster.
+- Multiple evaluators will vote on each poster. All group members must actively participate in explaining their poster.
 
-- Discussants have to pay attention to their corresponding poster presentation, as the student projects will not be available before the presentations.
+- Discussants have to pay attention to their corresponding poster presentation, as the projects will not be available before the presentations.
 
 - Guideline on how to write a research report: https://www.adelaide.edu.au/writingcentre/ua/media/28/learningguide-writingaresearchreport.pdf
 
@@ -42,7 +42,7 @@ The steps to do the course project are the following:
 
 ### 1. Form a group and choose a topic
 
-Get in touch with fellow students over the course discord server or around lectures to form a group. You can get inspiration from the course and lecture materials to find the data and research topic that you and your team like.  
+Get in touch with fellow students over the course discord server or around lectures to form a group. You can get inspiration from the course and lecture materials to find the research topic and data that you and your team like.  
 
 ### 2. Project groups registration
 
@@ -50,7 +50,7 @@ In December (22.12), your group has to register for the project on TC group assi
 
 ### 3. Poster presentations
 
-During poster presentation session, students give **10-minute** presentations about the state of results of their projects. Students get questions from lecturers regarding their understanding of the topic and feedback on how to improve the project for the final report (using fdbacker QR codes).
+During poster presentation session, students must give **10-minute** presentations about the state of results of their projects. Students will get questions from lecturers regarding their understanding of the topic and feedback on how to improve the project for the final report (using fdbacker QR codes).
 
 Each poster must contain at least four blocks:
 
@@ -60,7 +60,7 @@ Each poster must contain at least four blocks:
 3) Results
 4) Conclusion
 
-All members of the group have to participate in their presentation (for example presenting one block each) and be present to reply to questions by the lecturers. It is important that you learn to synthesize and summarize the project, please practice the presentation substantially because taking longer will affect the project grade.
+All members of the group have to participate in their presentation (for example presenting one block each) and be present to answer questions by the lecturers. It is important that you learn to synthesise and summarise the project, please practice the presentation extensively, because going over time will affect the project grade. Every group should take no more than 10 minutes, with each member presenting a part of the poster.
 
 ### 4. Submit the final report
 
@@ -71,20 +71,20 @@ Project reports should follow this structure:
 
 1. Motivation: What question(s) do you seek to answer and why?
 2. Data retrieval: Explain the interfaces or resources you used to collect all data necessary for the project.
-3. Data processing: Explain how you filtered data, normalized values, computed additional variables, etc.
-4. Analysis: Perform statistical analyses and visualizations that assess the question(s).
+3. Data processing: Explain how you filtered data, normalised values, computed additional variables, etc.
+4. Analysis: Perform statistical analyses and visualisations that assess the question(s).
 5. Conclusion: Evaluate answers to the question and their reliability.
 6. Critique: Identify limitations and alternative explanations for your results.
 
-Plots should be correctly shown (named axes, visible scales) and writing has to be understandable. The motivation part is very important. Argue why your project is relevant and what we can learn about human behavior with it.
+Plots should be correctly shown (named axes, visible scales) and writing has to be understandable. The motivation part is very important. Argue why your project is socially relevant and what we can learn about human behaviour with it.
 
-Be careful with statistics in the analysis part. Use the methods covered in the course to assess the uncertainty of your answers and comment on these results in the conclusion part. The critique part is essential. An important objective of this course is to develop a critical understanding of the opportunities and limitations of the data and methods we will use.
+Be careful with statistics in the analysis part. Use the methods covered in the course to assess the uncertainty of your answers and comment on these results in the conclusion part. The critique part is essential. An important objective of this course is to develop a critical understanding of the opportunities and limitations of the data and methods we use.
 
-After your project presentations, we might suggest feedback on your current project analysis and results. We will keep track of this feedback and expect that you incorporate it in your final project report. If something could not be done then we expect that you explain why.
+After your project presentations, we might suggest feedback on your current project analysis and results. We will keep track of this feedback and expect that you incorporate it in your final project report. If something could not be done then, we expect that you explain why.
 
 ## Project grading
 
-The grade for the project is composed of 50% for the poster presentation and 50% for the final report. Extra points are given when projects are based on open science principles (e.g. data and codes are available in a Github repository) and when data sources or methods go beyond what is covered in the course. **Projects do not need to report "positive results",** what is important is that you show how your have addressed your research questions, document any issues or deviations, and critically reflect on methods and results.
+The grade for the project is composed of 50% for the poster presentation and 50% for the final report. Extra points are given when projects are based on open science principles (e.g. data and codes are available in a Github repository) and when data sources or methods go beyond what is covered in the course. **Projects do not need to report "positive results", null results are equally informative.** What is important is that you show how your have addressed your research questions, document any issues or deviations, and critically reflect on methods and results.
 
 ## Examples of project topics
 
@@ -94,7 +94,7 @@ You can select a previous paper and take the same question and methods used in t
 
 #### Building on your Introduction to Computational Social Systems project
 
-You can seize the readings you do for Introduction to Computational Social Systems and propose a question and a plan based on that. This has the upside that you could merge both projects afterwards in one report and use it to showcase what you learned or towards a scientific publication. Some examples of how this can be done:
+You can seize the readings you do for Introduction to Computational Social Systems and propose a question and a plan based on that. This has the upside that you could merge both projects afterwards in one report and use it to showcase what you learned or use it for a scientific publication. Some examples of how this can be done:
 
 - **Bias and fairness in recommender systems.** Use a dataset of book reviews and a recommender system method (for example collaborative filtering) to evaluate if books written by women are recommended less often. You can compare various recommendation algorithms and assess their gender biases.
 - **Spread of misinformation in social networks.**:
@@ -109,7 +109,7 @@ You can seize the readings you do for Introduction to Computational Social Syste
 
 Here are some examples of further ideas for you to see how a project plan can look like. Feel free to choose among these but research by yourself if this kind of data and methods are still available.
 
-- **Popularity assortativity of musicians in Spotify.** Retrieving data about the latest popular musicians on a genre through the Spotify API, using the measurement of popularity given by Spotify. The project validates the popularity measurement by analyzing correlations with the number of followers of musicians. Then builds the collaboration network between musicians based on co-authorship links of appearing in the same song. The project presents descriptive statistics of the network and visualizations. The final question is tested by measuring assortativity with respect to popularity, assessing it with a permutation test.
+- **Popularity assortativity of musicians in Spotify.** Retrieving data about the latest popular musicians on a genre through the Spotify API, using the measurement of popularity given by Spotify. The project validates the popularity measurement by analysing correlations with the number of followers musicians have. Then builds the collaboration network between musicians based on co-authorship links of appearing in the same song. The project presents descriptive statistics of the network and visualisations. The final question is tested by measuring assortativity with respect to popularity, assessing it with a permutation test.
 
 - **Testing Social Impact Theory in the case of COVID19.** Measuring impact through Google trends volumes and number of tweets with terms related to the disease. Immediacy measured as the distance between countries and early sources of spreading. Number of sources measured as deaths in those countries. The project focuses on a series of countries where Twitter and Google are widely used, testing the theory through the relationship between impact, strength, and immediacy.
 
@@ -120,7 +120,7 @@ Here are some examples of further ideas for you to see how a project plan can lo
 - **Do I have to work in a group?**
 Yes, individual projects are not allowed. You can use collaborative tools like Github and videoconference technologies to coordinate your project. You can divide tasks as long as you all contribute to the project. Some exceptions about the group composition can be considered for groups composed only of doctoral researchers at TU Graz, contact us if that is your case.
 - **Do we need to start with a question?**
-Yes, and this question has to be relevant about human behavior. Remember that this course is not data-driven, so please do not start with a cool dataset and then see what to do with it. In general, good research questions can be answered with a yes/no answer or with a number. For example: "are emotional tweets retweeted more often?" or "is there a correlation between Twitter misspelling frequency and unemployment?". Questions that start with "how" or "what" are usually not good, like "how do people use TikTok?" or "what is Austria's favorite Pokemon?".
+Yes, and this question has to be relevant to human behaviour. Remember that this course is not data-driven, so please do not start with a cool dataset and then see what to do with it. In general, good research questions can be answered with a yes/no answer or with a number. For example: "are emotional tweets retweeted more often?" or "is there a correlation between Twitter misspelling frequency and unemployment?". Questions that start with "how" or "what" are usually not good, like "how do people use TikTok?" or "what is Austria's favorite Pokemon?".
 - **Can we change the question or project topic?**
 Only before you present your project. Your project presentation has to include your question and you cannot change it afterwards. If you have problems regarding methods or data, you should document that in your project report, but not change the question because of that.
 - **What if some dataset or method turns out to work differently than we planned?**
@@ -140,7 +140,7 @@ You can share code and data by setting up a Github repository and including a li
 - **Can I use a proprietary dataset I cannot share?**
 That's OK if it answers your question well but you won't qualify to get extra points for open science practices. I often run the code of projects myself and I cannot do that if you can't share the dataset.
 - **Can we access historical Twitter data?**
-Twitter API is not availble for now, but historical twitter data might be available from other research projects. Don't depend a project that would require historical Twitter data if you don't have access to it.
+Twitter API is not available for now, but historical twitter data might be available from other research projects. Don't depend a project that would require historical Twitter data if you don't have access to it.
 - **Can we compare countries on Twitter?**
 You can get some location data from Twitter if you process the "location" field of user profiles with a geocoder package. However, this can take very long and in general it is very hard to compare many countries with Twitter data. Also keep in mind language issues, especially if you plan to analyze text or run sentiment analysis. To compare countries you can use other data sources like Google Trends, Wikipedia page views if languages suit you, or even Facebook data from their official datasets or their ads API.
 - **Can I do sentiment analysis in languages other than English?**
