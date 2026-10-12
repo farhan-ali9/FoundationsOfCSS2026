@@ -2,9 +2,9 @@
 **Purpose:** practise the same skills taught in the Programming with Python practical.
 
 
-Students should attempt the tasks themselves and bring:
-- their `.ipynb` file,
-- any errors they could not solve,
+Attempt the tasks yourselves and bring:
+- your `.ipynb` file,
+- any errors you could not solve,
 - questions for the next tutorial.
 
 ## Task 1: Variables and output
