@@ -1,0 +1,17 @@
+[project]
+name = "foundationsofcss2026"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.11.2",
+    "networkx>=3.7",
+    "pandas>=3.1.0",
+    "requests>=2.34.2",
+    "scikit-learn>=1.9.1",
+    "scipy>=1.18.1",
+    "statsmodels>=0.15.0",
+    "torch>=2.15.0",
+    "transformers>=5.22.2",
+    "vadersentiment>=3.3.2",
+    "wbgapi>=1.0.14",
+]
